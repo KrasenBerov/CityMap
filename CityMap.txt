@@ -1,0 +1,8 @@
+First Second 350 Third 300 Fourth 5000 Fifth 200
+Second First 200 Third 250 Fifth 300 Sixth 100 Seventh 5000
+Third First 100 Fifth 300
+Fourth First 200 Sixth 800 Seventh 200
+Fifth Second 250
+Sixth Fifth 200 Seventh 200
+Seventh Fourth 300
+Eight First 200 Second 100
